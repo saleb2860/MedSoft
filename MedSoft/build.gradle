@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // these are dependencies. we added the jackson dataformat library for yamls. googling gets us this.
+    // gradle (this whole build file system/dependency stuff) manages the download, fetching, and linking to the project
+    // you literally just have to add a single line and you get a buncha functionality. i really wish my schooling showed
+    // me this because it makes things so easy instead of downloading a jar and adding that blah blha blha. thats not scalable
+    // this is ezpz
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.1'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+}
+
+test {
+    useJUnitPlatform()
+}

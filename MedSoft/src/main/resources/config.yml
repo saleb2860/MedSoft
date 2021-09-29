@@ -1,0 +1,162 @@
+
+#symptoms:
+ # - name: test
+  #  treatments:
+   #   - name: test treatment
+    #  - name: another test
+
+#  - name: nausea
+ #   treatments:
+  #    - name: pepto bismol
+
+
+symptoms:
+  - Runny nose:
+      - Cold
+      - Flu
+      - Allergies
+  - Sore throat:
+      - Cold
+      - Flu
+  - Cough:
+      - Cold
+      - Flu
+  - Head ache:
+      - Migraine
+      - Cold
+      - Flu
+  - Congestion:
+      - Cold
+      - Flu
+      - Allergies
+  - Sneezing:
+      - Cold
+      - Flu
+      - Allergies
+  - Fever:
+      - Cold
+      - Flu
+      - Kidney stones
+  - Body ache:
+      - Flu
+  - Fatigue:
+      - Flu
+      - Kidney stones
+  - Nausea:
+      - Flu
+      - Kidney stones
+      - Diarrhea
+      - Migraine
+  - Vomiting:
+      - Flu
+      - Kidney stones
+      - Migraine
+  - Severe pain on sides of lower back:
+      - Kidney stones
+  - Bloody urine:
+      - Kidney stones
+      - Urinary tract infection
+  - Ear pain:
+      - Ear infection
+  - Drainage of fluid from ear:
+      - Ear infection
+  - Trouble hearing:
+      - Ear infection
+  - Redness in one or both eyes:
+      - Conjunctivitis
+  - Irritated eyes:
+      - Conjunctivitis
+      - Allergies
+  - Itchy eyes:
+      - Conjunctivitis
+      - Allergies
+  - Crust around eyes:
+      Conjunctivitis
+  - Painful urination:
+      - Kidney stones
+      - Urinary tract infection
+  - Frequent urination:
+      - Urinary tract infection
+  - Pressure or cramping in groin or lower abdomen:
+      - Urinary tract infection
+      - Diarrhea
+  - Hives:
+      - Allergies
+  - Swelling of tongue:
+      - Allergies
+  - Difficulty breathing:
+      - Allergies
+  - Fainting:
+      - Allergies
+  - Watery stool:
+      - Diarrhea
+  - Bloody stool:
+      - Diarrhea
+  - Pulsing pain in head:
+      - Migraine
+  - Long lasting pain in head:
+      - Migraine
+  - Acute body pain:
+      - Cancer
+
+
+
+
+
+####################################################
+
+treatment:
+  Cold:
+    - Drink fluids
+    - Humidify the air
+    - Get plenty of rest
+    - Acetaminophen for pain and fever
+
+  Flu:
+    - Drink fluids
+    - Keep warm
+    - Get plenty of rest
+    - Acetaminophen for pain and fever
+
+  Kidney stones:
+    - Drink plenty of water
+    - Keep sodium intake low
+    - Anti-sickness medication
+    - If in pain, please consult a Doctor
+
+  Ear infection:
+    - Place warm cloth on affected ear
+    - Acetaminophen for pain
+    - If pain persists, please consult a doctor
+
+  Conjunctivitis:
+    - Wipe crust with cool wet cloth
+    - Place warm cloth over affected eye(s)
+    - Wash hands often
+    - Change pillow cases often
+    - If in pain, please consult a doctor
+
+  Urinary tract infection:
+    - Urinate frequently
+    - Acetaminophen for pain
+    - Please consult a doctor
+
+  Allergies:
+    - Antihistamines for mild symptoms
+    - For severe symptoms, please consult a doctor
+
+  Diarrhea:
+    - Avoid foods that are milk based, greasy, high in fiber, or sweet
+    - Avoid caffeine and alcohol
+    - Drink two (2) cups of clear fluids per hour if not vomiting
+    - Eat bland foods
+    - Get plenty of rest
+
+  Migraine:
+    - Ice pack over eyes or forehead
+    - Heating pad or hot shower to relax neck and shoulder muscles
+    - Sleep or rest in a dark room
+    - Exercise to increase endorphins, but not too intense
+
+  Cancer:
+    - Contact Make-A-Wish Foundation

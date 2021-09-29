@@ -1,0 +1,36 @@
+# this is the symptoms that corresponds to the symptoms in the Config class
+
+  - name: test
+    treatments:
+      - name: test treatment
+      - name: another test
+
+  - name: nausea
+    treatments:
+      - name: pepto bismol
+
+
+
+symptoms:
+  Cold symptoms:
+    - symptoms
+    - symptoms
+    - symptoms
+
+  Flu symptoms:
+    - symptoms
+    - symptoms
+    - symptoms
+
+####################################################
+
+treatment:
+  Cold treatments:
+    - treatment
+    - treatment
+    - treatment
+
+  Flu treatments:
+    - treatment
+    - treatment
+    - treatment
