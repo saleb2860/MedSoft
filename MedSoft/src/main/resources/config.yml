@@ -106,57 +106,57 @@ symptoms:
 ####################################################
 
 treatment:
-  Cold:
+  - Cold:
     - Drink fluids
     - Humidify the air
     - Get plenty of rest
     - Acetaminophen for pain and fever
 
-  Flu:
+  - Flu:
     - Drink fluids
     - Keep warm
     - Get plenty of rest
     - Acetaminophen for pain and fever
 
-  Kidney stones:
+  - Kidney stones:
     - Drink plenty of water
     - Keep sodium intake low
     - Anti-sickness medication
     - If in pain, please consult a Doctor
 
-  Ear infection:
+  - Ear infection:
     - Place warm cloth on affected ear
     - Acetaminophen for pain
     - If pain persists, please consult a doctor
 
-  Conjunctivitis:
+  - Conjunctivitis:
     - Wipe crust with cool wet cloth
     - Place warm cloth over affected eye(s)
     - Wash hands often
     - Change pillow cases often
     - If in pain, please consult a doctor
 
-  Urinary tract infection:
+  - Urinary tract infection:
     - Urinate frequently
     - Acetaminophen for pain
     - Please consult a doctor
 
-  Allergies:
+  - Allergies:
     - Antihistamines for mild symptoms
     - For severe symptoms, please consult a doctor
 
-  Diarrhea:
+  - Diarrhea:
     - Avoid foods that are milk based, greasy, high in fiber, or sweet
     - Avoid caffeine and alcohol
     - Drink two (2) cups of clear fluids per hour if not vomiting
     - Eat bland foods
     - Get plenty of rest
 
-  Migraine:
+  - Migraine:
     - Ice pack over eyes or forehead
     - Heating pad or hot shower to relax neck and shoulder muscles
     - Sleep or rest in a dark room
     - Exercise to increase endorphins, but not too intense
 
-  Cancer:
+  - Cancer:
     - Contact Make-A-Wish Foundation
